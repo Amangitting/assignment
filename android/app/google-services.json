@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364577851837",
+    "project_id": "assignment-18bfc",
+    "storage_bucket": "assignment-18bfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364577851837:android:001f1d953d10397a502ad4",
+        "android_client_info": {
+          "package_name": "com.example.restapiasses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364577851837-m7rck357sgck693i28eche8m3o361je3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD30Ps320ZllJQjeHJ9VQ8pKJYGiDmCuSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364577851837-m7rck357sgck693i28eche8m3o361je3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
